@@ -15,9 +15,9 @@
   <li><strong>AI Use-Cases:</strong> showcasing what you can do when Decepticons activate.</li>
 </ul>
 <p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
-<br>  
+<br style="line-height:0.2rem;">   
 <h3>🔧 My Tech Toolkit</h3>  
-<br>  
+<br style="line-height:0.2rem;">  
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
   <li>🤖 <strong>Large Language Models & AI:</strong> exploring the frontiers of artificial intelligence.</li>
@@ -26,5 +26,5 @@
   <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
 </ul>  
-<br>  
+<br style="line-height:0.2rem;">  
 <p><em>Feel free to explore, and don't hesitate to reach out at <a href="mailto:tomasz@demystifai.blog">📩tomasz@demystifAI.blog</a> if you have questions or ideas to share!</em></p>
