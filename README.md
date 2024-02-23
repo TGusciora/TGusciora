@@ -1,8 +1,8 @@
 <h2>Welcome to my Github profile!</h2>  
     
 <h3>👋 Meet Tomasz</h3>
-<h3><a href="https://tgusciora.github.io/">🌐 My website: https://tgusciora.github.io/</a></h3>
-<h3><a href="mailto:tomasz@demystifai.blog">📩 Contact me: tomasz@demystifAI.blog</a></h3>
+<h4><a href="https://tgusciora.github.io/">🌐 My website: https://tgusciora.github.io/</a></h4>
+<h4><a href="mailto:tomasz@demystifai.blog">📩 Contact me: tomasz@demystifAI.blog</a></h4>
   
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
   
