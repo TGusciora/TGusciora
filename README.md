@@ -3,7 +3,10 @@
 <h3>👋 Meet Tomasz</h3>
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
 <h4><a href="https://tgusciora.github.io/">🌐 My website: https://tgusciora.github.io/</a></h4>
+<h4><a href="mailto:tomasz@demystifai.blog">📑 Substack: https://demistyfai.substack.com</a></h4>
 <h4><a href="mailto:tomasz@demystifai.blog">📩 Contact me: tomasz@demystifAI.blog</a></h4>
+
+
 <br>
 <h3>🚀 What to Expect</h3>   
 <ul>
