@@ -4,7 +4,7 @@
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
 <h4><a href="https://demystifAI.blog/" target="_blank">🏠 Homepage: https://demystifAI.blog/</a></h4>
 <h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter/</a></h4>
-<br><br>
+<br>
 <h4><a href="https://demystifAI.substack.com" target="_blank">📑 Substack: https://demystifAI.substack.com</a></h4>
 <h4><a href="https://twitter.com/TomaszGusciora" target="_blank">📑 Twitter/X: https://twitter.com/TomaszGusciora</a></h4>
 <h4><a href="mailto:tomasz@demystifai.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>
