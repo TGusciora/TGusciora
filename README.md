@@ -8,6 +8,7 @@
 <h4><a href="https://demystifAI.substack.com" target="_blank">📑 Substack: https://demystifAI.substack.com</a></h4>
 <h4><a href="https://twitter.com/TomaszGusciora" target="_blank">📑 Twitter/X: https://twitter.com/TomaszGusciora</a></h4>
 <h4><a href="mailto:tomasz@demystifai.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>
+<h4><a href="https://www.admonymous.co/demystifai" target="_blank">📩 Leave me anonymous feedback</a></h4>
 
 
 <br>
