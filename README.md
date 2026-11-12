@@ -50,4 +50,4 @@ Start here: **[claude_code_common_base](https://github.com/TGusciora/claude_code
 
 📩 [tomasz@demystifai.blog](mailto:tomasz@demystifai.blog) · 🕵️ [Leave me anonymous feedback](https://www.admonymous.co/demystifai)
 
-<sub>I still automate everything I can, so there's more time for Netflix. 📺</sub>
+<sub>I still automate everything I can, so there's more time to listen to music. 🎧</sub>
