@@ -1,34 +1,53 @@
-<h2>Welcome to my Github profile!</h2>  
+# Hi, I'm Tomasz Guściora 👋
 
-<h3>👋 Meet Tomasz</h3>
-<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
-<h4><a href="https://demystifAI.blog/" target="_blank">🏠 Homepage: https://demystifAI.blog/</a></h4>
-<h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank"><strong>✅ Join the DemystifAI newsletter! ✅</strong></a></h4>
-<br>
-<h4><a href="https://demystifAI.substack.com" target="_blank">📑 Substack: https://demystifAI.substack.com</a></h4>
-<h4><a href="https://twitter.com/TomaszGusciora" target="_blank">📑 Twitter/X: https://twitter.com/TomaszGusciora</a></h4>
-<h4><a href="mailto:tomasz@demystifai.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>
-<h4><a href="https://www.admonymous.co/demystifai" target="_blank">📩 Leave me anonymous feedback</a></h4>
+**AI-SDLC trainer and consultant.** I help software teams and founders ship real work with **Claude Code**, not just talk about it.
 
+- 🧑‍💻 **13+ years in IT**, most of it in data science and production AI/ML
+- ⏱️ **1000+ hours** of AI-SDLC practice with Claude Code in the terminal
+- 👥 **100+ developers trained**, in small groups of max 15 people
 
-<br>
-<h3>🚀 What to Expect</h3>   
-<ul>
-  <li><strong>In-depth analysis:</strong> demystifying complex concepts with clear explanations.</li>
-  <li><strong>Automation:</strong> let the robots do the heavy lifting, so I can dedicate more time to Netflix. 📺</li>
-  <li><strong>Humour:</strong> not sure why. Probably my shrink should know.</li>
-  <li><strong>Critical thinking:</strong> challenging assumptions and embracing learning.</li>
-  <li><strong>AI use-cases:</strong> showcasing what you can do when Decepticons activate.</li>
-</ul>
-<p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
-<br>
-<h3>🔧 My Tech Toolkit</h3>  
-<ul>
-  <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
-  <li>🤖 <strong>Large Language Models & AI:</strong> exploring the frontiers of artificial intelligence.</li>
-  <li>🦾 <strong>SAS / 4GL / CASL:</strong> robust tools for data analysis.</li>
-  <li>🏫 <strong>SQL:</strong> the language of databases.</li>
-  <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
-  <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
-</ul>
-<p><em>Feel free to explore, and don't hesitate to reach out at <a href="mailto:tomasz@demystifai.blog" target="_blank">📩tomasz@demystifAI.blog</a> if you have questions or ideas to share!</em></p>
+---
+
+### 🛠️ What I do
+
+| | |
+|---|---|
+| 🏢 **Claude Code training for teams** | A methodical AI-SDLC workshop for software houses. → [demystifai.xyz/en/for-teams](https://demystifai.xyz/en/for-teams/) |
+| 🎯 **1:1 mentoring for founders** | 8 weeks, built around your own code. → [demystifai.xyz/en/mentoring-premium](https://demystifai.xyz/en/mentoring-premium/) |
+| 🧠 **AI & LLM consulting** | RAG, agents, evals and cost control, from audit to production. → [demystifai.xyz/en/consulting](https://demystifai.xyz/en/consulting/) |
+
+🇵🇱 Szkolenia, mentoring i konsulting po polsku: [demystifai.xyz](https://demystifai.xyz/)
+
+---
+
+### ✍️ What I write
+
+On **[demystifai.blog](https://demystifai.blog/en)**: hands-on articles about LLMs, RAG, tokenisation and Claude Code. Some favourites:
+
+- 🔤 [Build a BPE tokenizer in your browser, from scratch](https://demystifai.xyz/en/blog/build-a-bpe-tokenizer/): live and interactive, no install
+- 🪙 [Tokenomics of Large Language Models](https://demystifai.blog/en/blog/2025-10-07-post)
+- 🤖 [Enter Claude Code: Guardrail Garage #002](https://demystifai.blog/en/blog/2025-10-29-post)
+- 🍿 [Snack-size RAG: Guardrail Garage #003](https://demystifai.blog/en/blog/2025-11-26-post)
+
+📬 **[Subscribe to the DemystifAI newsletter](https://demystifai.blog/en/subscribe)**
+
+---
+
+### 🔧 Toolkit
+
+`Claude Code` · `Python` · `LLMs / RAG / agents` · `SQL` · `SAS` · `Docker` · `Caddy` · `Ansible` · `Git`
+
+Start here: **[claude_code_common_base](https://github.com/TGusciora/claude_code_common_base)**, a shared Claude Code setup I use with teams and founders.
+
+---
+
+### 📫 Find me
+
+[![Website](https://img.shields.io/badge/demystifai.xyz-training-0A66C2?style=flat-square)](https://demystifai.xyz/en/)
+[![Blog](https://img.shields.io/badge/demystifai.blog-articles-111?style=flat-square)](https://demystifai.blog/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tgusciora-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tgusciora/)
+[![X](https://img.shields.io/badge/X-@TomaszGusciora-000?style=flat-square&logo=x)](https://x.com/TomaszGusciora)
+
+📩 [tomasz@demystifai.blog](mailto:tomasz@demystifai.blog) · 🕵️ [Leave me anonymous feedback](https://www.admonymous.co/demystifai)
+
+<sub>I still automate everything I can, so there's more time for Netflix. 📺</sub>
